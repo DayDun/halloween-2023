@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "ESNext",
+		"noImplicitAny": true,
+		"strictNullChecks": true,
+		"resolveJsonModule": false
+	},
+	"include": [
+		"main.ts"
+	]
+}
